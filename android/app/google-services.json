@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551566229880",
+    "project_id": "loadandgo-4f015",
+    "storage_bucket": "loadandgo-4f015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551566229880:android:b372fcacec53620205088d",
+        "android_client_info": {
+          "package_name": "com.example.lng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551566229880-os8dcd803qs8sm7m24k79fkp4jrk38hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT77MVQx4brHNEnOZmYNif71qjxgSzMRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551566229880-os8dcd803qs8sm7m24k79fkp4jrk38hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
